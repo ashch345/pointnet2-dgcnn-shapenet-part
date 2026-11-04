@@ -1,0 +1,10 @@
+# environments and caches
+venv/
+.venv/
+__pycache__/
+.idea/
+# data and model files are not uploaded
+*.npz
+*.pt
+runs/
+PartAnnotation/
