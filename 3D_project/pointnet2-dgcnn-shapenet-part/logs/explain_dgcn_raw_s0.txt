@@ -1,0 +1,3 @@
+Saved 8 figures to figs/dgcn_raw_s0/
+boundary test over 195 of 200 shapes (shapes with a clear boundary): 16% of points are boundary points; mean relative saliency boundary 1.23 vs interior 0.99; boundary/interior ratio per shape: mean 1.26, median 1.15, above 1 in 135 of 195 shapes
+mean relative saliency: correctly predicted points 0.99, wrongly predicted points 1.10  (over 200 shapes; 1.0 = shape average)

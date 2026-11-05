@@ -1,0 +1,3 @@
+Saved 0 figures to figs/pn2_smoothed_s1/
+boundary test over 191 of 200 shapes (shapes with a clear boundary): 17% of points are boundary points; mean relative saliency boundary 1.01 vs interior 1.01; boundary/interior ratio per shape: mean 1.01, median 0.92, above 1 in 74 of 191 shapes
+mean relative saliency: correctly predicted points 1.00, wrongly predicted points 0.95  (over 200 shapes; 1.0 = shape average)
