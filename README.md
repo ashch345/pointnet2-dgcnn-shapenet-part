@@ -41,8 +41,6 @@ GPU training is not exactly repeatable. An earlier run of the same seeds gave sl
 
 Brighter means more sensitive. Saliency shows what the prediction is sensitive to. It does not prove what the model "uses".
 
-[FIGURES TO BE ADDED: side-by-side examples of PointNet++ and DGCNN on the same test shapes, with my observations.]
-
 ### Is saliency higher near part boundaries?
 I defined a boundary point as a point with a different true part among its 16 nearest points (about 16% of points). For 200 test shapes per model and seed, I compared the average saliency of boundary points with interior points, shape by shape. Full numbers are in [results/saliency_summary.md](results/saliency_summary.md).
 
