@@ -1,0 +1,12 @@
+# environments and caches
+venv/
+.venv/
+__pycache__/
+.idea/
+# data, model files and archives are not uploaded
+*.npz
+*.pt
+*.zip
+# only the top-level folders (results/runs is kept: it holds small result files)
+/runs/
+/PartAnnotation/
